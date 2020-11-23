@@ -1,8 +1,8 @@
 # Chicago_Crime
 
 ## Introduction
-This project used findings from the Kaggle Chicago Crime dataset to recommend actions towards a predictive policing strategy for the Chicago Police Department.
-The main findings where a large increase in narcotics of 180% in Humboldt Park in the last two years.
+The task of this project was to use findings from the Kaggle Chicago Crime dataset to recommend actions towards a predictive policing strategy for the Chicago Police Department.
+By digging into the last few years of the dataset, the main findings where a large increase in narcotics of 180% in Humboldt Park in the last two years.
 The three notebooks attached are the notebooks of three different teammembers with different responsibilities.
 
 ## Explore notebooks
