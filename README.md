@@ -10,7 +10,7 @@ All notebooks can be run independently of each other and the code is commented t
 crime-forecasting-main-lars.ipynb should be explored for general visualizations and insights while chicago-crime-forecast.ipynb and chicago-crime-heatmaps.ipynb are more detailed.
 
 ## Running the code
-The notebooks should be run at https://www.kaggle.com/notebooks/welcome as this is where we extact out data. 
+The notebooks should be run at https://www.kaggle.com/notebooks/welcome as this is where we extract out data. 
 
 
 
